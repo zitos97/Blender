@@ -2,6 +2,11 @@
 
 In this repository, I store the results of my tiny Blender experiments.
 
+<p float="left">
+  <img src="/opener.png" width="33%" />
+  <img src="/cubes.png" width="33%" /> 
+  <img src="/jug.png" width="33%" />
+</p>
 
 
 ### Door Opener
