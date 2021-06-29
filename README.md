@@ -3,9 +3,9 @@
 In this repository, I store the results of my tiny Blender experiments.
 
 <p float="left">
-  <img src="Photos/opener.png" width="33%" />
-  <img src="Photos/cubes.png" width="33%" /> 
-  <img src="Photos/jug.png" width="33%" />
+  <img src="Photos/opener.png" width="30%" />
+  <img src="Photos/cubes.png" width="30%" /> 
+  <img src="Photos/jug.png" width="30%" />
 </p>
 
 
